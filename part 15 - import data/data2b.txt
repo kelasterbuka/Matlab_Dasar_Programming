@@ -1,0 +1,5 @@
+2,jeruk
+5,apel
+6,pisang
+9,durian
+1,melon

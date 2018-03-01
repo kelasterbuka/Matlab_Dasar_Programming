@@ -1,0 +1,18 @@
+Tabel Harga Kebutuhan Pokok Nasional
+Periode: Mei
+Tahun: 2017
+Unit : Rp/Kg
+                            
+Tanggal                   1	      2	      3	      4	
+Minyak Goreng            11480   11470   11500   11460
+Daging Sapi              115160  115110  115230  115080
+Daging Ayam Broiler      30370   30560   30740   30410
+Telur Ayam Ras           21780   21900   22040   22000
+Tepung Terigu            8770    8780    8840    8770
+Kedelai Impor            10650   10640   10610   10690
+Kedelai Lokal            11030   10830   10730   10830
+Beras Medium             10580   10580   10580   10580
+Gula Pasir               13620   13620   13620   13660
+Cabe Merah Keriting      28840   28070   29180   28660
+Cabe Merah Biasa         30430   29490   30400   30410
+Bawang Merah             32100   31900   31970   32080
